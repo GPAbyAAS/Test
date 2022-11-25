@@ -1,7 +1,7 @@
 
 # Graphical-Password-Authentication-Prototype
 
-We the team of three developer of Graphical Password Authentication System
+We the team of three developer of Graphical Password Authentication Systems
 
 
 
